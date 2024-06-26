@@ -1,4 +1,4 @@
-[![MasterHead](https://forums.epsilonwow.net/uploads/monthly_2022_04/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif.968bf0b95e20ff857e6e40006902f2bb.gif)]
+[MasterHead](https://forums.epsilonwow.net/uploads/monthly_2022_04/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif.968bf0b95e20ff857e6e40006902f2bb.gif)
 <h1 align="center">Hi 👋, I'm Muhammed Shafeek</h1>
 <h3 align="center">I am so passionate about software development and am constantly learning new things in the technology field. By continuously acquiring knowledge on my own, I am expanding my skills and abilities to achieve my dreams. I am enhancing my problem-solving skills by tackling various data structures and algorithms, which in turn improves the productivity and efficiency of the products I work on.</h3>
 <img align="right" alt="programming" width="400" src="https://cdn.dribbble.com/users/3033627/screenshots/11067184/media/9df0d61f83b022e982cf47329423836c.gif">
