@@ -47,6 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/shafiiiq/shafiiiq/output/snake.svg" alt="Snake animation" />
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiiiq&show_icons=true&locale=en&layout=compact" alt="shafiiiq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafiiiq&show_icons=true&locale=en" alt="shafiiiq" /></p>
